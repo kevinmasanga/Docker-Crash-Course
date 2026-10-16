@@ -1,8 +1,0 @@
-## START AND STOPING CONTAINERS
-### `docker run 
-      Doesnt create new containers
-	Doesn't reuse previous containers
-  `
-####`docker ps -a 
-      list all images that are running
-
